@@ -4,7 +4,7 @@
  * 
  * Everything has been done for you except the equals() method
  */
-//Lala Hussein 501106657
+
 public class Driver
 {
   private String id;
@@ -151,4 +151,5 @@ public class Driver
     this.zone = zone;
   }
 }
+
 
