@@ -4,7 +4,7 @@
  * 
  * A TMUberDelivery is-a TMUberService with some extra functionality
  */
-//Lala Hussein 501106657
+
 public class TMUberDelivery extends TMUberService
 {
   public static final String TYPENAME = "DELIVERY";
@@ -77,3 +77,4 @@ public class TMUberDelivery extends TMUberService
     
   }
 }
+
