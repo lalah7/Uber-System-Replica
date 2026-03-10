@@ -6,7 +6,7 @@
  * 
  * Implement the Comparable interface and compare two service requests based on the distance
  */
-//Lala Hussein 501106657
+
 abstract public class TMUberService 
 {
   //private Driver driver;   
@@ -109,3 +109,4 @@ abstract public class TMUberService
     
   }
 }
+
