@@ -4,7 +4,7 @@
  * 
  * Everything has been done for you except equals() method
  */
-//Name: Lala Hussein        Student# : 501106657
+
 public class User 
 {
   private String accountId;  
@@ -114,3 +114,4 @@ public class User
     return false;
   }
 }
+
