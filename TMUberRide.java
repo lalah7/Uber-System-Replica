@@ -4,7 +4,7 @@
  * 
  * A TMUberRide is-a TMUberService with some extra functionality
  */
-//Lala Hussein 501106657
+
 public class TMUberRide extends TMUberService
 {
   private int numPassengers;
@@ -45,3 +45,4 @@ public class TMUberRide extends TMUberService
     this.requestedXL = requestedXL;
   }
 }
+
